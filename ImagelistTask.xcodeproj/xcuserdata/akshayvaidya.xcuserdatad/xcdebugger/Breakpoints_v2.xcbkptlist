@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EF48DAE8-7455-4557-87A7-F8E51DDA04A1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AE4E346-D800-472C-9D23-1CF792E48129"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Networkrequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getData(comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AE4E346-D800-472C-9D23-1CF792E48129 - 77e908fda1e4908"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "2AE4E346-D800-472C-9D23-1CF792E48129 - 77e908fda1e4908"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "2AE4E346-D800-472C-9D23-1CF792E48129 - 77e908fda1e4908"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "572">
+               </Location>
+               <Location
+                  uuid = "2AE4E346-D800-472C-9D23-1CF792E48129 - 6d7394dd537adc80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC6DD31E-B66F-404C-BD55-0FBCD90180E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Networkrequest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getData(comp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC6DD31E-B66F-404C-BD55-0FBCD90180E3 - 77e908fda1e4995"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "AC6DD31E-B66F-404C-BD55-0FBCD90180E3 - 77e908fda1e4995"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "388">
+               </Location>
+               <Location
+                  uuid = "AC6DD31E-B66F-404C-BD55-0FBCD90180E3 - 77e908fda1e4995"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "AC6DD31E-B66F-404C-BD55-0FBCD90180E3 - 6d7394dd537adc1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ImagelistTask.NetworkrequestViewModel.getData(comp: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Networkrequest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "428">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A2ABC9C-A951-41D2-A920-28A04873422B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/ImageCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "setData(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC2057D9-5D16-475E-8EC9-D70209165389"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/ImageCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "setData(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C17BA341-6D5E-4EB7-9820-7B1883F14F1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DCDE6CF7-6CD9-481D-973D-7ED11FB98D6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F2312D1-6D46-4C6F-A9E3-1D2307A16C59"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "setImageSize()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F2312D1-6D46-4C6F-A9E3-1D2307A16C59 - b6b690ed161bb277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "2F2312D1-6D46-4C6F-A9E3-1D2307A16C59 - b6b690ed161bb277"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "2F2312D1-6D46-4C6F-A9E3-1D2307A16C59 - 307934f3f1dec67f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "220B6226-D50E-448E-B630-2A909BB301CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "220B6226-D50E-448E-B630-2A909BB301CD - 307934f3f1dec429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "220B6226-D50E-448E-B630-2A909BB301CD - 307934f3f1dec429"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "220B6226-D50E-448E-B630-2A909BB301CD - 307934f3f1decb55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BFBAA6F-46E0-413F-8922-AC9FA13FCD1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "setImageSize()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BFBAA6F-46E0-413F-8922-AC9FA13FCD1F - 307934f3f1dec506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "2BFBAA6F-46E0-413F-8922-AC9FA13FCD1F - 307934f3f1dec506"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "2BFBAA6F-46E0-413F-8922-AC9FA13FCD1F - 307934f3f1dec5c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  uuid = "2BFBAA6F-46E0-413F-8922-AC9FA13FCD1F - 307934f3f1dec582"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImagelistTask.ViewController.setImageSize() -&gt; ()"
+                  moduleName = "ImagelistTask"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/akshayvaidya/Desktop/ImagelistTask/ImagelistTask/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "676">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "954E4495-582E-4661-B4B9-CC801AEB4312"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImagelistTask/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "prepareCollection()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
